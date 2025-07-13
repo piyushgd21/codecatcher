@@ -2,6 +2,8 @@
 
 This is a Python-based GUI game that helps students debug C++ code with the help of AI-powered hints using Google's Gemini API. It's designed for educational use, where users learn by asking questions rather than being shown direct solutions.
 
+<img width="588" height="435" alt="image" src="https://github.com/user-attachments/assets/302b60d6-8bac-4cec-998d-f049d5b49b6f" />
+
 ---
 
 ## 🔧 Requirements
